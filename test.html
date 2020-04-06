@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>博客后台管理系统</title>
+  <link rel="stylesheet" href="/layui/css/layui.css">
+  <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="layui-layout-body">
+<div class="layui-layout layui-layout-admin">
+  <div class="layui-header">
+    <div class="layui-logo">博客后台管理</div>
+    <ul class="layui-nav layui-layout-left">
+      <li class="layui-nav-item"><a href="">后台首页</a></li>
+    </ul>
+      <ul class="layui-nav layui-layout-right">
+        <li class="layui-nav-item">
+            <a href="javascript:;">
+                <img src="http://t.cn/RCzsdCq" class="layui-nav-img">
+                <span></span>
+            </a>
+            <dl class="layui-nav-child">
+                <dd><a href="">基本资料</a></dd>
+                <dd><a href="">安全设置</a></dd>
+            </dl>
+        </li>
+        <li class="layui-nav-item"><a href="/admin/logout">退出登陆</a></li>
+    </ul>
+  </div>
+  
+    <!--侧边栏-->
+    <div class="layui-side layui-bg-black">
+        <!--<div th:include="~{footer::leftBar}"></div>-->
+        <div class="layui-side-scroll">
+            <!-- 左侧导航区域（可配合layui已有的垂直导航） -->
+            <ul class="layui-nav layui-nav-tree"  lay-filter="test">
+        <li class="layui-nav-item">
+            <a class="" href="javascript:;">文章系统</a>
+            <dl class="layui-nav-child">
+                <dd><a href="/admin/toAdd">编写文章</a></dd>
+                <dd><a href="/admin/main">文章管理</a></dd>
+                <dd><a href="javascript:;">数据统计</a></dd>
+            </dl>
+        </li>
+        <li class="layui-nav-item">
+            <a href="javascript:;">快捷导航</a>
+            <dl class="layui-nav-child">
+                <dd><a href="javascript:;">CSDN</a></dd>
+                <dd><a href="javascript:;">Git</a></dd>
+                <dd><a href="javascript:;">码云</a></dd>
+                <dd><a href="javascript:;">谷歌翻译</a></dd>
+            </dl>
+        </li>
+        <li class="layui-nav-item">
+            <a class="" href="javascript:;">系统管理</a>
+            <dl class="layui-nav-child">
+                <dd><a href="javascript:;">站点设置</a></dd>
+                <dd><a href="javascript:;">广告设置</a></dd>
+                <dd><a href="javascript:;">友情链接</a></dd>
+            </dl>
+        </li>
+        <li class="layui-nav-item"><a href="">云市场</a></li>
+        <li class="layui-nav-item"><a href="">开发文档</a></li>
+    </ul>
+        </div>
+    </div>
+
+  <div class="layui-body">
+    <!-- 内容主体区域 -->
+    <div class="container">
+      <div class="row clearfix">
+        <div class="col-md-12 column">
+          <div class="form-group"></div>
+          <form class="form-inline" method="post" action="/admin/main">
+            <div class="form-group">
+              <label for="exampleInputName2">文章标题：</label>
+              <input type="text" class="form-control" id="exampleInputName2" name="searchName" value="">
+            </div>
+            <div class="form-group"  >
+              <label >文章分类:</label>
+              <select class="btn btn-default dropdown-toggle" type="button" name="searchType">
+                <option>MYSQL</option>
+                <option>JAVA</option>
+                <option>PHP</option>
+                <option>博文</option>
+                <option selected="selected">请选择</option>
+              </select>
+            </div>
+            <button type="submit" class="btn btn-default">查找</button>
+          </form>
+        </div>
+      </div>
+      <hr/>
+      <div class="row clearfix">
+        <div class="col-md-12 column">
+          <table class="table table-hover table-striped">
+            <thead>
+            <tr>
+              <th>文章编号</th>
+              <th>文章标题</th>
+              <th>文章内容</th>
+              <th>文章类别</th>
+              <th>操作</th>
+            </tr>
+            </thead>
+
+            <tbody>
+              <tr>
+                <td>23</td>
+                <td>个人博客存在的意义？</td>
+                <td>       有一些程序...</td>
+                <td>博文</td>
+
+                <td>
+                  <a href="/admin/toUpdate/23" class="btn btn-sm btn-primary">修改</a>
+                  &nbsp;| &nbsp;
+                  <a href="/admin/delete/23" class="btn btn-sm btn-danger" onclick="return del();">删除</a>
+                </td>
+              </tr>
+              <tr>
+                <td>24</td>
+                <td>Thymeleaf模板引擎的介绍</td>
+                <td>       前端交给我...</td>
+                <td>JAVA</td>
+
+                <td>
+                  <a href="/admin/toUpdate/24" class="btn btn-sm btn-primary">修改</a>
+                  &nbsp;| &nbsp;
+                  <a href="/admin/delete/24" class="btn btn-sm btn-danger" onclick="return del();">删除</a>
+                </td>
+              </tr>
+              <tr>
+                <td>28</td>
+                <td>什么是springSecurity？</td>
+                <td>Spring Secur...</td>
+                <td>JAVA</td>
+
+                <td>
+                  <a href="/admin/toUpdate/28" class="btn btn-sm btn-primary">修改</a>
+                  &nbsp;| &nbsp;
+                  <a href="/admin/delete/28" class="btn btn-sm btn-danger" onclick="return del();">删除</a>
+                </td>
+              </tr>
+              <tr>
+                <td>32</td>
+                <td>谈谈java架构的演变</td>
+                <td>MVC三层架构 
+	优...</td>
+                <td>JAVA</td>
+
+                <td>
+                  <a href="/admin/toUpdate/32" class="btn btn-sm btn-primary">修改</a>
+                  &nbsp;| &nbsp;
+                  <a href="/admin/delete/32" class="btn btn-sm btn-danger" onclick="return del();">删除</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <!--显示分页信息部分代码-->
+      <div class="modal-footer no-margin-top">
+        <div class="col-md-6">
+          <strong>当前第 1页,共 3 页.一共 12 条记录
+          </strong>
+        </div>
+        <ul class="pagination pull-right no-margin">
+          
+          
+          <!--遍历条数-->
+          <li>
+            
+            <span style="font-weight: bold;background: #6faed9;" >1</span>
+          </li>
+          <li>
+            <a href="/admin/main?pageNum=2&amp;&amp;searchType=请选择&amp;&amp;searchName=">2</a>
+            
+          </li>
+          <li>
+            <a href="/admin/main?pageNum=3&amp;&amp;searchType=请选择&amp;&amp;searchName=">3</a>
+            
+          </li>
+          <li class="next">
+            <a href="/admin/main?pageNum=2&amp;&amp;searchType=请选择&amp;&amp;searchName=">
+                下一页
+              <i class="ace-icon fa fa-angle-double-right"></i>
+            </a>
+          </li>
+          <li>
+            <a href="/admin/main?pageNum=3&amp;&amp;searchType=请选择&amp;&amp;searchName=">尾页</a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+    <tr>
+
+    </tr>
+    <div style="padding: 15px;">
+      
+    </div>
+  </div>
+
+    <div class="layui-footer">
+        <!-- 底部固定区域 -->
+        © <a href="https://gitee.com/XzcGroup/XzcBlogTemplate" target="_blank" title="XzcBlogTemplate"></a> 个人博客后台
+    </div>
+
+</div>
+<script src="/layui/layui.js"></script>
+<script>
+//JavaScript代码区域
+layui.use('element', function(){
+  var element = layui.element;
+  
+});
+
+<!--删除文章提示-->
+function del(){
+  if(confirm('确认要删除？'))
+  {
+    return true;
+  }
+  return false;
+}
+
+</script>
+
+
+
+</body>
+</html>

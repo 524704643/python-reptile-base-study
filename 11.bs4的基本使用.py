@@ -38,7 +38,9 @@ print(r)
 #遍历
 utlList = []
 for i in r:
-    url = i.get("data-original")
+    # url = i.get("data-original")
+    # 如果结构时第一层时，获取标签值直接i['data-original']，假设第一层是div标签内还有span标签，则获取i.span['data-original']
+    url = i['data-original']
     if url:
         utlList.append(url)
 

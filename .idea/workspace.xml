@@ -2,11 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3ceecd0-01a8-4107-9eb7-857f9e12d50e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10.xPath爬取图片并保存.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.bs4的基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.xPath实战.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.xPath项目实战2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.re正则表达式的定义和规则.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.re正则表达式实战.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.re验证邮箱是否正确.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.python爬虫实战(翻译).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.代理ip的使用.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.bs4的基本使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.bs4的基本使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334447.571963.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334448.512808.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334448.626723.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334448.744657.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334449.793985.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334449.928624.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334450.216164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334450.321889.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334450.492125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334450.749071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334450.872652.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334451.322555.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334451.463495.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334451.602128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334451.753723.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334451.850465.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334451.966758.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334452.080041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334452.141034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1586334452.337056.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,165 +38,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11.bs4的基本使用.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13.re正则表达式实战.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="40" column="32" lean-forward="true" selection-end-line="49" selection-end-column="14" />
+            <state relative-caret-position="152">
+              <caret line="8" column="133" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="133" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.xPath爬取图片并保存.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xpath3.html">
+        <entry file="file://$PROJECT_DIR$/14.re验证邮箱是否正确.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="65" column="6" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="6" />
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15.python爬虫实战(翻译).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="33" selection-end-line="35" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/16.代理ip的使用.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/re.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1680">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9.xPath项目实战2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
               <folding>
-                <element signature="n#style#0;n#a#0;n#span#1;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#10486#10492#0" expanded="true" />
-                <element signature="e#10492#10498#0" expanded="true" />
-                <element signature="e#10558#10564#0" expanded="true" />
-                <element signature="e#10564#10570#0" expanded="true" />
-                <element signature="e#11354#11360#0" expanded="true" />
-                <element signature="e#11360#11366#0" expanded="true" />
-                <element signature="e#11395#11401#0" expanded="true" />
-                <element signature="e#11401#11407#0" expanded="true" />
-                <element signature="e#11433#11439#0" expanded="true" />
-                <element signature="e#11439#11445#0" expanded="true" />
-                <element signature="e#11473#11479#0" expanded="true" />
-                <element signature="e#11479#11485#0" expanded="true" />
-                <element signature="e#11517#11523#0" expanded="true" />
-                <element signature="e#11523#11529#0" expanded="true" />
-                <element signature="e#11559#11565#0" expanded="true" />
-                <element signature="e#11565#11571#0" expanded="true" />
-                <element signature="e#11591#11597#0" expanded="true" />
-                <element signature="e#11597#11603#0" expanded="true" />
-                <element signature="e#12394#12400#0" expanded="true" />
-                <element signature="e#12400#12406#0" expanded="true" />
-                <element signature="e#12427#12433#0" expanded="true" />
-                <element signature="e#12433#12439#0" expanded="true" />
-                <element signature="e#12503#12509#0" expanded="true" />
-                <element signature="e#12509#12515#0" expanded="true" />
-                <element signature="e#13293#13299#0" expanded="true" />
-                <element signature="e#13299#13305#0" expanded="true" />
-                <element signature="e#13329#13335#0" expanded="true" />
-                <element signature="e#13335#13341#0" expanded="true" />
-                <element signature="e#13371#13377#0" expanded="true" />
-                <element signature="e#13377#13383#0" expanded="true" />
-                <element signature="e#13478#13484#0" expanded="true" />
-                <element signature="e#13484#13490#0" expanded="true" />
-                <element signature="e#13535#13541#0" expanded="true" />
-                <element signature="e#13541#13547#0" expanded="true" />
-                <element signature="e#14300#14306#0" expanded="true" />
-                <element signature="e#14306#14312#0" expanded="true" />
-                <element signature="e#14393#14399#0" expanded="true" />
-                <element signature="e#14399#14405#0" expanded="true" />
-                <element signature="e#14480#14486#0" expanded="true" />
-                <element signature="e#14486#14492#0" expanded="true" />
-                <element signature="e#14549#14555#0" expanded="true" />
-                <element signature="e#14555#14561#0" expanded="true" />
-                <element signature="e#15314#15320#0" expanded="true" />
-                <element signature="e#15320#15326#0" expanded="true" />
-                <element signature="e#15357#15363#0" expanded="true" />
-                <element signature="e#15363#15369#0" expanded="true" />
-                <element signature="e#15404#15410#0" expanded="true" />
-                <element signature="e#15410#15416#0" expanded="true" />
-                <element signature="e#15447#15453#0" expanded="true" />
-                <element signature="e#15453#15459#0" expanded="true" />
-                <element signature="e#15501#15507#0" expanded="true" />
-                <element signature="e#15507#15513#0" expanded="true" />
-                <element signature="e#15555#15561#0" expanded="true" />
-                <element signature="e#15561#15567#0" expanded="true" />
-                <element signature="e#15610#15616#0" expanded="true" />
-                <element signature="e#15616#15622#0" expanded="true" />
-                <element signature="e#15693#15699#0" expanded="true" />
-                <element signature="e#15699#15705#0" expanded="true" />
-                <element signature="e#15749#15755#0" expanded="true" />
-                <element signature="e#15755#15761#0" expanded="true" />
-                <element signature="e#16575#16581#0" expanded="true" />
-                <element signature="e#16581#16587#0" expanded="true" />
-                <element signature="e#16648#16654#0" expanded="true" />
-                <element signature="e#16654#16660#0" expanded="true" />
-                <element signature="e#16688#16694#0" expanded="true" />
-                <element signature="e#16694#16700#0" expanded="true" />
-                <element signature="e#17460#17466#0" expanded="true" />
-                <element signature="e#17466#17472#0" expanded="true" />
-                <element signature="e#17503#17509#0" expanded="true" />
-                <element signature="e#17509#17515#0" expanded="true" />
-                <element signature="e#17542#17548#0" expanded="true" />
-                <element signature="e#17548#17554#0" expanded="true" />
-                <element signature="e#18314#18320#0" expanded="true" />
-                <element signature="e#18320#18326#0" expanded="true" />
-                <element signature="e#19182#19188#0" expanded="true" />
-                <element signature="e#19188#19194#0" expanded="true" />
-                <element signature="e#19237#19243#0" expanded="true" />
-                <element signature="e#19243#19249#0" expanded="true" />
-                <element signature="e#19274#19280#0" expanded="true" />
-                <element signature="e#19280#19286#0" expanded="true" />
-                <element signature="e#19309#19315#0" expanded="true" />
-                <element signature="e#19315#19321#0" expanded="true" />
-                <element signature="e#19350#19356#0" expanded="true" />
-                <element signature="e#19356#19362#0" expanded="true" />
-                <element signature="e#20131#20137#0" expanded="true" />
-                <element signature="e#20137#20143#0" expanded="true" />
-                <element signature="e#20168#20174#0" expanded="true" />
-                <element signature="e#20174#20180#0" expanded="true" />
-                <element signature="e#20252#20258#0" expanded="true" />
-                <element signature="e#20258#20264#0" expanded="true" />
-                <element signature="e#20303#20309#0" expanded="true" />
-                <element signature="e#20309#20315#0" expanded="true" />
-                <element signature="e#21076#21082#0" expanded="true" />
-                <element signature="e#21082#21088#0" expanded="true" />
-                <element signature="e#21867#21873#0" expanded="true" />
-                <element signature="e#21873#21879#0" expanded="true" />
-                <element signature="e#21943#21949#0" expanded="true" />
-                <element signature="e#21949#21955#0" expanded="true" />
-                <element signature="e#22774#22780#0" expanded="true" />
-                <element signature="e#22780#22786#0" expanded="true" />
-                <element signature="e#22786#22792#0" expanded="true" />
-                <element signature="e#22792#22798#0" expanded="true" />
-                <element signature="e#23831#23837#0" expanded="true" />
-                <element signature="e#23837#23843#0" expanded="true" />
-                <element signature="e#23917#23923#0" expanded="true" />
-                <element signature="e#23923#23929#0" expanded="true" />
-                <element signature="e#24705#24711#0" expanded="true" />
-                <element signature="e#24711#24717#0" expanded="true" />
-                <element signature="e#24717#24723#0" expanded="true" />
-                <element signature="e#24723#24729#0" expanded="true" />
-                <element signature="e#25544#25550#0" expanded="true" />
-                <element signature="e#25550#25556#0" expanded="true" />
-                <element signature="e#26360#26366#0" expanded="true" />
-                <element signature="e#26366#26372#0" expanded="true" />
-                <element signature="e#26513#26519#0" expanded="true" />
-                <element signature="e#26519#26525#0" expanded="true" />
-                <element signature="e#26591#26597#0" expanded="true" />
-                <element signature="e#26597#26603#0" expanded="true" />
-                <element signature="e#27365#27371#0" expanded="true" />
-                <element signature="e#27371#27377#0" expanded="true" />
-                <element signature="e#27404#27410#0" expanded="true" />
-                <element signature="e#27410#27416#0" expanded="true" />
-                <element signature="e#27443#27449#0" expanded="true" />
-                <element signature="e#27449#27455#0" expanded="true" />
-                <element signature="e#27479#27485#0" expanded="true" />
-                <element signature="e#27485#27491#0" expanded="true" />
-                <element signature="e#28241#28247#0" expanded="true" />
-                <element signature="e#28247#28253#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12.re正则表达式的定义和规则.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -199,6 +127,17 @@
       <find>one-book</find>
       <find>constructor</find>
       <find>id</find>
+      <find>逆剑狂神</find>
+      <find>&lt;div class=&quot;media-body&quot;&gt;</find>
+      <find>&lt;h4 class=&quot;media-heading book-title&quot;&gt;&lt;a .*?&gt;.*?&lt;/a&gt;&lt;/h4&gt;</find>
+      <find>&lt;h4 class=&quot;media-heading book-title&quot;&gt;&lt;.*?&gt;.*?&lt;/a&gt;&lt;/h4&gt;</find>
+      <find>&gt;.*?&lt;/a&gt;&lt;/h4&gt;</find>
+      <find>title='\w+' &gt;(.*?)&lt;/a&gt;&lt;/h4&gt;</find>
+      <find>&lt;a href=&quot;http://www.ybdu.co/51/\d+/&quot; title='\w+'&gt;(.*?)&lt;/a&gt;&lt;/h4&gt;</find>
+      <find>全文阅读' &gt;(.*?)&lt;/a&gt;&lt;/h4&gt;</find>
+      <find>' &gt;(.*?)&lt;/a&gt;&lt;/h4&gt;</find>
+      <find>'&gt;(.*?)&lt;/a&gt;&lt;/div&gt;</find>
+      <find>&lt;img src=&quot;http://www.ybdu.co/files/article/image/(.*?)&quot;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -223,12 +162,20 @@
         <option value="$PROJECT_DIR$/xpath3.html" />
         <option value="$PROJECT_DIR$/10.xPath爬取图片并保存.py" />
         <option value="$PROJECT_DIR$/11.bs4的基本使用.py" />
+        <option value="$PROJECT_DIR$/re.html" />
+        <option value="$PROJECT_DIR$/13.re正则表达式实战.py" />
+        <option value="$PROJECT_DIR$/re.json" />
+        <option value="$PROJECT_DIR$/12.re正则表达式的定义和规则.py" />
+        <option value="$PROJECT_DIR$/14.re验证邮箱是否正确.py" />
+        <option value="$PROJECT_DIR$/15.py" />
+        <option value="$PROJECT_DIR$/15.python爬虫实战(翻译).py" />
+        <option value="$PROJECT_DIR$/16.代理ip的使用.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="y" value="29" />
     <option name="width" value="871" />
     <option name="height" value="681" />
   </component>
@@ -269,8 +216,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10.xPath爬取图片并保存">
-    <configuration name="10.xPath爬取图片并保存" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.16.代理ip的使用">
+    <configuration name="12.re正则表达式的定义和规则" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,7 +229,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.xPath爬取图片并保存.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.re正则表达式的定义和规则.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11.bs4的基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13.re正则表达式实战" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,7 +250,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.bs4的基本使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.re正则表达式实战.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +259,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7.xPath读取html文件并解析" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14.re验证邮箱是否正确" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,7 +271,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.xPath读取html文件并解析.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14.re验证邮箱是否正确.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8.xPath实战" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15.python爬虫实战(翻译)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,7 +292,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.xPath实战.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15.python爬虫实战(翻译).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,7 +301,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9.xPath项目实战2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16.代理ip的使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,7 +313,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.xPath项目实战2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16.代理ip的使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10.xPath爬取图片并保存" />
-        <item itemvalue="Python.11.bs4的基本使用" />
-        <item itemvalue="Python.9.xPath项目实战2" />
-        <item itemvalue="Python.8.xPath实战" />
-        <item itemvalue="Python.7.xPath读取html文件并解析" />
+        <item itemvalue="Python.16.代理ip的使用" />
+        <item itemvalue="Python.15.python爬虫实战(翻译)" />
+        <item itemvalue="Python.14.re验证邮箱是否正确" />
+        <item itemvalue="Python.13.re正则表达式实战" />
+        <item itemvalue="Python.12.re正则表达式的定义和规则" />
       </list>
     </recent_temporary>
   </component>
@@ -417,15 +364,29 @@
       <option name="project" value="LOCAL" />
       <updated>1586242813058</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="python-reptail-base-study">
+      <created>1586334807770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586334807771</updated>
+    </task>
+    <task id="LOCAL-00005" summary="python-reptail-base-study">
+      <created>1586334945662</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586334945664</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1606876" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1606876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" weight="0.32885906" />
       <window_info anchor="bottom" id="Python Console" weight="0.32885906" />
@@ -433,7 +394,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42785236" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42785236" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39765102" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -552,7 +513,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1、requests的基本使用.py">
+    <entry file="file://$PROJECT_DIR$/1.requests的基本使用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
@@ -875,16 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7.xPath读取html文件并解析.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="6" column="128" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="128" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -1072,22 +1023,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9.xPath项目实战2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/bs4/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="716" column="71" selection-start-line="716" selection-start-column="60" selection-end-line="716" selection-end-column="71" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/1586336772.410574.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/xpath3.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1229,20 +1173,172 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.xPath爬取图片并保存.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11.bs4的基本使用.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="40" column="32" lean-forward="true" selection-end-line="49" selection-end-column="14" />
+        <state relative-caret-position="627">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.xPath爬取图片并保存.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="289" column="90" selection-start-line="289" selection-start-column="19" selection-end-line="289" selection-end-column="90" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#7;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#7;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#8;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#8;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#9;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#9;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#10;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#10;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#11;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#11;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#12;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#12;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#13;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#13;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#14;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#14;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#15;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#15;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#16;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#16;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#17;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#17;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#18;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#18;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#19;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#19;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#20;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#20;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#21;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#21;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#22;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#22;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#23;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#23;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#24;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#24;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#25;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#25;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#26;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#26;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#27;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#27;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#28;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#28;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#29;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#29;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#34476#34480#0" expanded="true" />
+            <element signature="e#34480#34484#0" expanded="true" />
+            <element signature="e#35112#35116#0" expanded="true" />
+            <element signature="e#35116#35120#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#1;n#div#1;n#div#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.xPath读取html文件并解析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="6" column="128" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="128" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1680">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.xPath项目实战2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.re正则表达式的定义和规则.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.python爬虫实战(翻译).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="33" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.re验证邮箱是否正确.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.re正则表达式实战.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="133" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="133" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.代理ip的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
         </state>
       </provider>
     </entry>
